@@ -25,10 +25,9 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '开心', id: "oZRdR6ReXjTX_kyTtdebYv6gfe6E"}, 
+      {name: '开心', id: "oZRdR6ReXjTX_kyTtdebYv6gfe6E"},
       {name: '老婆1', id: "oZRdR6c8NRJNgwSmLqCpphN4_02Q"}, 
-      {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
-      {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
+     
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
