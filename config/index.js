@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "19cb472709ba62ff7e86528e34c6c703",
 
     // 模板消息id
-    TEMPLATE_ID: "OiC80Xc-uELvybIgSBvsVcvPUlc8JQpLjCdT_OngzAc",
+    TEMPLATE_ID: "Zwqq8-x0D3OHxAKKVooKYrshE7NHa1UOqPE14a9DWoM",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     //CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
@@ -25,7 +25,7 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '开心', id: "oZRdR6ReXjTX_kyTtdebYv6gfe6E"},
+      //{name: '开心', id: "oZRdR6ReXjTX_kyTtdebYv6gfe6E"},
       {name: '老婆1', id: "oZRdR6c8NRJNgwSmLqCpphN4_02Q"}, 
      
     ],
